@@ -26,7 +26,7 @@
 
 ![qr1](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr1.jpeg?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=2127920953&Signature=n01spRae0J40baZtvqGdmVP7CuA%3D)
 ![qr2](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr2.png?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=1803920849&Signature=%2Brp2c5%2FxHvEV3BecZzH3NIFdkQQ%3D)
-![qr3](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr3.png?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=2129065401&Signature=B5Pqs6j7Ns9AM5V2hRs0dRK9y60%3D)
+![qr3](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr3.png?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=2129580331&Signature=15290p%2BB3ZDiNJECQGgNoop9ZQE%3D)
 
 ##
 使用教学视频：
